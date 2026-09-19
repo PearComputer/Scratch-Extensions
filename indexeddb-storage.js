@@ -1,7 +1,7 @@
 // Name: IndexedDB Storage
 // ID: indexeddbstorage
 // Description: Store large amounts of data persistently using IndexedDB. Like local storage, but with much more space and binary-safe. Supports namespaces so multiple projects can keep their data separate.
-// By: Super Z
+// By: Sakura Matsumoto
 // License: MIT
 
 (function (Scratch) {
